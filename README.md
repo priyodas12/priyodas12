@@ -25,32 +25,156 @@
 
 # 💻 Additional Tech Stack:
 <br><br><br>
-![Angular](https://img.shields.io/badge/Angular-16-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+----
+
+# 🔹 Backend Development Frameworks
+![Micronaut](https://img.shields.io/badge/Micronaut-3.9-8C1B9F?style=for-the-badge&logo=micronaut)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-6DB33F?style=for-the-badge&logo=springboot)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-Framework-6DB33F?style=for-the-badge&logo=spring)
+![JPA / Hibernate](https://img.shields.io/badge/JPA--Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+# 🔹 API Styles
+![SOAP](https://img.shields.io/badge/SOAP-Protocol-1D6AB3?style=for-the-badge&logo=soap)
+![REST](https://img.shields.io/badge/REST-API-02539A?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-DA33A1?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+# 🔹 Frontend Development
+![Angular CLI](https://img.shields.io/badge/Angular%20CLI-Tool-DD0031?style=for-the-badge&logo=angular)
+![RxJS](https://img.shields.io/badge/RxJS-Reactive-JsD?style=for-the-badge&logo=reactivex)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-UI-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.1-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+# 🔹 Databases
+
+## Relational
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-2019-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-19c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-2019-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle-19c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## NoSQL
+![DynamoDB](https://img.shields.io/badge/DynamoDB-AWS-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+
+---
+
+# 🔹 Cache
+
+![Redis](https://img.shields.io/badge/Redis-7.2-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+----
+
+# 🔹 Build Tools
 ![Apache Maven](https://img.shields.io/badge/Maven-3.9.6-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-8.5-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-Observability-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-Platform-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-APM-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-ORM-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+---
+
+# 🔹 Testing
+![JUnit 5](https://img.shields.io/badge/JUnit-5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-Mocking-6A1B9A?style=for-the-badge&logo=java)
+![JMeter](https://img.shields.io/badge/JMeter-Performance-F7931E?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+---
+
+# 🔹 DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Orchestration-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-Artifactory-0073B1?style=for-the-badge&logo=jfrog&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+---
+
+# 🔹 API Tools
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-REST%2FGQL-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-API%20Client-7952B3?style=for-the-badge&logo=bruno&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-API-DA33A1?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-Protocol-0081C9?style=for-the-badge&logo=grpc&logoColor=white)
-![Azure Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-AWS-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger%20UI-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Apigee](https://img.shields.io/badge/Apigee-API%20Gateway-F48B00?style=for-the-badge&logo=googlecloud&logoColor=white)
-![IBM WebSphere](https://img.shields.io/badge/IBM%20WebSphere-AppServer-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7.2-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Memcached](https://img.shields.io/badge/Memcached-1.6-66CC99?style=for-the-badge&logo=memcached&logoColor=black)
+![IBM DataPower](https://img.shields.io/badge/IBM%20DataPower-Gateway-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+# 🔹 Monitoring & Logging
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Platform-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-Observability-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-APM-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+![Micrometer](https://img.shields.io/badge/Micrometer-Metrics-C2185B?style=for-the-badge&logo=micrometer&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?style=for-the-badge&logo=grafana&logoColor=black)
+
+---
+
+# 🔹 Cloud Platforms
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-Compute-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-Database-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-Serverless-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-ECR-FF9900?style=for-the-badge&logo=amazonaws)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-EKS-FF9900?style=for-the-badge&logo=amazonaws)
+![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-Aurora-527FFF?style=for-the-badge&logo=amazonaws)
+![Amazon EventBridge](https://img.shields.io/badge/Amazon%20EventBridge-EventBridge-FF9900?style=for-the-badge&logo=amazonaws)
+![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20ElastiCache-ElastiCache-FF9900?style=for-the-badge&logo=amazonaws)
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-Monitoring-5CA0D3?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-DB%20Service-0078D4?style=for-the-badge&logo=sqlserver&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20CosmosDB-NoSQL%20DB-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Azure Event Hub](https://img.shields.io/badge/Azure%20EventHub-Streaming-0078D4?style=for-the-badge&logo=azureeventhub&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure%20ServiceBus-Messaging-0078D4?style=for-the-badge&logo=azureservicebus&logoColor=white)
+![Azure VM](https://img.shields.io/badge/Azure%20VM-Virtual%20Machine-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+
+---
+
+# 🔹 ORM & Query Frameworks
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-ORM-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring%20Data-Repositories-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+# 🔹 Reactive Programming
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-Reactive-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+# 🔹 Message Brokers & Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-231F20?style=for-the-badge&logo=kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Message%20Broker-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+# 🔹 Auth & Security
+![OAuth2](https://img.shields.io/badge/OAuth2-Auth-4285F4?style=for-the-badge&logo=oauth)
+![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-Auth-4285F4?style=for-the-badge&logo=openid)
+![JWT](https://img.shields.io/badge/JWT-Nimbus%20JOSE-000000?style=for-the-badge&logo=jwt&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-Secure-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+# 🔹 Other Tools
+![Lombok](https://img.shields.io/badge/Lombok-Boilerplate%20Reducer-DD2B0A?style=for-the-badge&logo=lombok&logoColor=white)
+![MapStruct](https://img.shields.io/badge/MapStruct-Mapper-007ACE?style=for-the-badge&logo=java)
+![Liquibase](https://img.shields.io/badge/Liquibase-DB%20Migration-0052CC?style=for-the-badge&logo=liquibase&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-DB%20Migration-007ACC?style=for-the-badge&logo=flyway&logoColor=white)
+![Java Faker](https://img.shields.io/badge/Java%20Faker-Test%20Data-00BFFF?style=for-the-badge&logo=java)
+
+---
+
+# 🔹 Documentation
+![JavaDoc](https://img.shields.io/badge/JavaDoc-Docs-007396?style=for-the-badge&logo=java)
+![Swagger UI](https://img.shields.io/badge/Swagger%20UI-Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+
 <br><br><br>
 
 # 📊 GitHub Stats:
