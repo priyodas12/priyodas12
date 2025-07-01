@@ -26,7 +26,6 @@
 # 💻 Additional Tech Stack:
 <br><br><br>
 
-
 ----
 
 ### 🔹 Backend Development Frameworks
@@ -46,7 +45,7 @@
 
 ---
 
-###🔹 Frontend Development
+### 🔹 Frontend Development
 ![Angular CLI](https://img.shields.io/badge/Angular%20CLI-Tool-DD0031?style=for-the-badge&logo=angular)
 ![RxJS](https://img.shields.io/badge/RxJS-Reactive-JsD?style=for-the-badge&logo=reactivex)
 ![Angular Material](https://img.shields.io/badge/Angular%20Material-UI-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -54,7 +53,7 @@
 
 ---
 
-###🔹 Databases
+### 🔹 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-2019-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -65,19 +64,19 @@
 
 ---
 
-###🔹 Cache
+### 🔹 Cache
 
 ![Redis](https://img.shields.io/badge/Redis-7.2-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ----
 
-###🔹 Build Tools
+### 🔹 Build Tools
 ![Apache Maven](https://img.shields.io/badge/Maven-3.9.6-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-8.5-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
-###🔹 Testing
+### 🔹 Testing
 ![JUnit 5](https://img.shields.io/badge/JUnit-5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-Mocking-6A1B9A?style=for-the-badge&logo=java)
 ![JMeter](https://img.shields.io/badge/JMeter-Performance-F7931E?style=for-the-badge&logo=apachejmeter&logoColor=white)
@@ -104,7 +103,7 @@
 
 ---
 
-###🔹 Monitoring & Logging
+### 🔹 Monitoring & Logging
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-Platform-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-Observability-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
@@ -115,7 +114,7 @@
 
 ---
 
-###🔹 Cloud Platforms
+### 🔹 Cloud Platforms
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-Compute-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-Database-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
@@ -134,25 +133,25 @@
 
 ---
 
-###🔹 ORM & Query Frameworks
+### 🔹 ORM & Query Frameworks
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-ORM-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/Spring%20Data-Repositories-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
-###🔹 Reactive Programming
+### 🔹 Reactive Programming
 ![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-Reactive-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
-###🔹 Message Brokers & Streaming
+### 🔹 Message Brokers & Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-231F20?style=for-the-badge&logo=kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Message%20Broker-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
-###🔹 Auth & Security
+### 🔹 Auth & Security
 ![OAuth2](https://img.shields.io/badge/OAuth2-Auth-4285F4?style=for-the-badge&logo=oauth)
 ![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-Auth-4285F4?style=for-the-badge&logo=openid)
 ![JWT](https://img.shields.io/badge/JWT-Nimbus%20JOSE-000000?style=for-the-badge&logo=jwt&logoColor=white)
@@ -160,7 +159,7 @@
 
 ---
 
-###🔹 Other Tools
+### 🔹 Other Tools
 ![Lombok](https://img.shields.io/badge/Lombok-Boilerplate%20Reducer-DD2B0A?style=for-the-badge&logo=lombok&logoColor=white)
 ![MapStruct](https://img.shields.io/badge/MapStruct-Mapper-007ACE?style=for-the-badge&logo=java)
 ![Liquibase](https://img.shields.io/badge/Liquibase-DB%20Migration-0052CC?style=for-the-badge&logo=liquibase&logoColor=white)
@@ -169,11 +168,9 @@
 
 ---
 
-###🔹 Documentation
+### 🔹 Documentation
 ![JavaDoc](https://img.shields.io/badge/JavaDoc-Docs-007396?style=for-the-badge&logo=java)
 ![Swagger UI](https://img.shields.io/badge/Swagger%20UI-Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-
 
 
 <br><br><br>
